@@ -25,7 +25,7 @@ public class ActionsTest {
 //        driver.manage().window().maximize();
 //        Actions actions=new Actions(driver);
 //        actions.moveToElement(driver.findElement(By.xpath("//div/a[text()='更多']"))).perform();
-//        //显示等待10秒
+//        //显示等待10秒1
 //        WebDriverWait w=new WebDriverWait(driver,10);
 //        w.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By
 //                .xpath("//a[text()='查看全部百度产品 >']")));
